@@ -111,8 +111,8 @@ body{
 
 
     .apresentacao__imagem {
-        width: 50%;
-    } 
+        width: 50%;}
+    
     @media (max-width: 1200px) {
         .cabecalho{
              padding: 10%;  
